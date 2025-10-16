@@ -38,6 +38,8 @@ Total Questions- 60 [(Apti, Digital, Verilog, and C Programming and DVLSI]
 
 - Then he asked me about Amplifier that it work in which region among these three. Though I was not able to answer that. Then he himself explained the reason for its working in saturation.
 
+- At the end, the only review given by him is I have good basics knowledge just try to answer more confidently.
+
 ### Round 3 (HR) - 15 min
 
 - Starting with what i know about my role. Any idea or not? And who has taken my second interview?.
