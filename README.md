@@ -35,3 +35,18 @@ Total Questions- 60 [(Apti, Digital, Verilog, and C Programming and DVLSI]
 - Then he entered in MOS basics. Draw characteristics graph showing regions also. And then reason for being in saturation of MOS. So I explained him by drawing proper MOS internal NMOS.
 
 - Then i was asked to write current- voltage expression in saturation and linear region.
+
+- Then he asked me about Amplifier that it work in which region among these three. Though I was not able to answer that. Then he himself explained the reason for its working in saturation.
+
+### Round 3 (HR) - 15 min
+
+- Starting with what i know about my role. Any idea or not? And who has taken my second interview?.
+
+- Then i was asked to answer why i have taken admission in NIT Rourkela. And why there is a switch from Electrical to Electronics. So i justified with my interest.
+
+- Then about my family and from where do i belong.
+
+- At last i was asked short intro. From that i was asked about my current project.
+
+- Then she given info about job location and package etc and ended.
+  
