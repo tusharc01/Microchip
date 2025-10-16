@@ -23,6 +23,8 @@ He gave me a hint, asking, "Let's suppose there are two metal wires, one short a
 
 Then, he gave me a second case about driving several gates (e.g., inverters) using buffers. The scenarios were: (i) driving 2 inverters with one clock signal, and (ii) driving 4 inverters with the same clock signal. He asked what the difference in the waveforms would be if buffers were inserted in the path and how we would determine which size buffer to use. I analyzed everything based on our previous discussion and gave him a complete answer. At that point, he was impressed with me.
 
+He concluded the interview after asking about the basic difference between an ASIC and an FPGA, and why FPGAs are more commonly used nowadays, even though ASICs exist.
+
 Finally, he asked if I had any questions for him. I asked about what Microchip does and what profile he works in.
 
 
