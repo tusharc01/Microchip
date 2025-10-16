@@ -7,48 +7,47 @@ Total Questions- 60 [(Apti, Digital, Verilog, and C Programming and DVLSI]
 
 ### Round 1 (F2F Interview)(Physical Design) - 45 min
 
-- Starting with my intro. Based on that i was asked me What im currently doing in my project. So i told him About ASIC Design Flow that currently i'm working on. And Learning physical design to get better understanding on that.
+The interview started with my introduction. Based on that, he asked what I was currently doing in my project. I told him about the ASIC Design Flow that I'm currently working on, and that I'm also learning physical design to get a better understanding of it.
 
-- I explained him the ASIC Design flow properly, That till what step i have done and What is still remaining. Then he started asking in depth about my project.
-  
-- He asked me the Difference between Post Synthesis STA and Post-Layout STA. I answered that. And Also asked one ques that What should be done to avoid the Post-Layout STA voilation which may not come in Post-synthesis STA. I also answered the reason for that and given one suggestion to avoid that.
+I explained the ASIC Design flow to him properly, mentioning which steps I had completed and what was still remaining. Then, he started asking in-depth questions about my project.
 
-- Then he came in Fundamentals of STA. What do i understand by Setup and Hold time. I was explained to draw on Paper with proper definition also (with proper Two FF case and waveform)
+He asked me the difference between Post-Synthesis STA and Post-Layout STA, which I answered. He also asked what should be done to avoid Post-Layout STA violations that might not appear in Post-Synthesis STA. I answered by explaining the reason and offering a suggestion to prevent it.
 
-- Then he came to buffers present in `.lib` file. What are they? Why are they used for? Then started doing analysis on different sized buffers.
+Then, he moved on to the fundamentals of STA and asked for my understanding of setup and hold time. I was asked to explain it with a proper definition and to draw it on paper, including a two flip-flop case and its waveform.
 
-- He asked me that what are the difference between Buffers having small size and ones having bigger size? I first answered him that sorry sir, i haven't analyzed on buffers present in Standard lib. But he insisted me to just think about it.
+Next, he asked about the buffers present in the .lib file: what they are and their purpose. Then, he began asking me to analyze buffers of different sizes.
 
-- He given me the hints that Let's suppose two metal wires having one small and one longer starting from (a), what should be the signal waveform on reaching at the end (b)? I first not able to make properly then he given me more hint to think in the direction of capacitance changing case and skew etc.) Then i was able to explain perfectly.
+He asked me about the difference between small-sized buffers and larger ones. Initially, I answered, "Sorry sir, I haven't analyzed the buffers present in the standard library," but he insisted that I just think about it.
 
-- Then he given me the second case of driving several gates (suppose inverter) by using buffers. Like (i) 2 inverters driving with one clk signal & (ii) 4 inverters driving with same clk signal. What will be the difference between waveforms if Buffers are inserted on path (and how we know that which size buffer we have to use). I analyzed everything based on prev discussion and concluded perfect answer to him. That time he was impressed with me.
+He gave me a hint, asking, "Let's suppose there are two metal wires, one short and one long, starting from (a). What would the signal waveform look like upon reaching the end (b)?" At first, I wasn't able to get it right, so he gave me another hint to think in terms of changing capacitance, skew, etc. After that, I was able to explain it perfectly.
 
-- Then he asked if i have any ques for him. Then i asked about what microchip does and what profile you are working on?!
+Then, he gave me a second case about driving several gates (e.g., inverters) using buffers. The scenarios were: (i) driving 2 inverters with one clock signal, and (ii) driving 4 inverters with the same clock signal. He asked what the difference in the waveforms would be if buffers were inserted in the path and how we would determine which size buffer to use. I analyzed everything based on our previous discussion and gave him a complete answer. At that point, he was impressed with me.
+
+Finally, he asked if I had any questions for him. I asked about what Microchip does and what profile he works in.
 
 
 ### Round 2 (Virtual Interview) - 1 hr
 
-- Whole interview went on deep down basics. Starting with my resume Heading in which Machine learning and Deep learning was mentioned. He asked me little bit make him to understand the basics and what algorithms i know but I'm not aware that much related to ML. It was just little in my MTech curriculum. He suggested me not to mention anything that i dont know from scratch.
+The interview then went deep into the basics, starting with a heading on my resume where Machine Learning and Deep Learning were mentioned. He asked me to explain the basics and what algorithms I know, but I wasn't very familiar with ML as it was only a small part of my MTech curriculum. He suggested that I shouldn't mention anything I don't know from scratch.
 
-- Then moved to STA. Starting with drawing internal Structure of Flip-flop. And explaining him how it function with proper signal and data waveform. This took very much time to explain him properly as i got panic as not able to remember exact connection of internal stucture.
+Next, we moved to STA, starting with drawing the internal structure of a Flip-Flop and explaining how it functions with proper signal and data waveforms. This took a lot of time to explain properly, as I panicked and couldn't remember the exact internal connections.
 
-- Then he entered in MOS basics. Draw characteristics graph showing regions also. And then reason for being in saturation of MOS. So I explained him by drawing proper MOS internal NMOS.
+Then, he delved into MOS basics. He asked me to draw the characteristics graph, showing the different regions, and then explain the reason for a MOS being in saturation. I explained it to him by drawing the internal structure of an NMOS.
 
-- Then i was asked to write current- voltage expression in saturation and linear region.
+After that, I was asked to write the current-voltage expressions for the saturation and linear regions.
 
-- Then he asked me about Amplifier that it work in which region among these three. Though I was not able to answer that. Then he himself explained the reason for its working in saturation.
+Then, he asked me about amplifiers and in which of the three regions they operate. I wasn't able to answer that. He then explained the reason for it working in saturation.
 
-- At the end, the only review given by him is I have good basics knowledge just try to answer more confidently.
+At the end, the only feedback he gave me was that I have good basic knowledge but should try to answer more confidently.
 
 ### Round 3 (HR) - 15 min
 
-- Starting with what i know about my role. Any idea or not? And who has taken my second interview?.
+The next HR round started with questions about what I knew about the role, if I had any idea who had taken my second interview, and why I had chosen to attend NIT Rourkela. 
 
-- Then i was asked to answer why i have taken admission in NIT Rourkela. And why there is a switch from Electrical to Electronics. So i justified with my interest.
+I was also asked why I switched from Electrical to Electronics, and I justified the decision based on my interests. 
 
-- Then about my family and from where do i belong.
+Then, the interviewer asked about my family and where I am from. 
 
-- At last i was asked short intro. From that i was asked about my current project.
+Finally, I was asked to give a short introduction, which led to questions about my current project. 
 
-- Then she given info about job location and package etc and ended.
-  
+After that, she provided information about the job location and package, and the interview concluded.
