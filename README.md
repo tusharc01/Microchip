@@ -1,7 +1,7 @@
 # Microchip
 Interview Experience
 
-### Written Test 
+### Written Test - 90 min
 
 Total Questions- 60 [(Apti, Digital, Verilog, and C Programming and DVLSI]
 
