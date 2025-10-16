@@ -30,6 +30,8 @@ Finally, he asked if I had any questions for him. I asked about what Microchip d
 
 The interview then went deep into the basics, starting with a heading on my resume where Machine Learning and Deep Learning were mentioned. He asked me to explain the basics and what algorithms I know, but I wasn't very familiar with ML as it was only a small part of my MTech curriculum. He suggested that I shouldn't mention anything I don't know from scratch.
 
+Initially, I was asked to explain what happens in physical design and what steps are involved. The questions also covered the die area and IO pads. Then, I was asked for a simple definition of a layout. Since I panicked, I started describing it according to the elements present in the Cadence tool layout. However, he said he was just expecting a basic answer: that it is the physical representation of the chip's interior, which can be used by the foundry to fabricate it on a silicon chip.
+
 Next, we moved to STA, starting with drawing the internal structure of a Flip-Flop and explaining how it functions with proper signal and data waveforms. This took a lot of time to explain properly, as I panicked and couldn't remember the exact internal connections.
 
 Then, he delved into MOS basics. He asked me to draw the characteristics graph, showing the different regions, and then explain the reason for a MOS being in saturation. I explained it to him by drawing the internal structure of an NMOS.
@@ -38,7 +40,7 @@ After that, I was asked to write the current-voltage expressions for the saturat
 
 Then, he asked me about amplifiers and in which of the three regions they operate. I wasn't able to answer that. He then explained the reason for it working in saturation.
 
-At the end, the only feedback he gave me was that I have good basic knowledge but should try to answer more confidently.
+At the end, the only feedback he gave me was that I have good basic knowledge but should try to answer more confidently. He also mentioned that while knowledge of tools is fine, I should also understand how they have evolved over the years and what happens internally.
 
 ### Round 3 (HR) - 15 min
 
