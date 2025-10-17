@@ -13,7 +13,8 @@
   - Static Timing Analysis (deep understanding req) - (can study Fabrication, Sequential & Timing issues from Rabaey)
     
   - VLSI/ASIC Design Flow for IC design process (learning EDA tools will be a Plus for practical)
-  - FPGA Prototyping (Theoretical atleast)  [![GitHub - UART FPGA Project](https://img.shields.io/badge/FPGA-black?logo=github&logoColor=white)](https://github.com/tusharc01/UART/tree/main/FPGA)
+  - FPGA Prototyping (Theoretical atleast)  
+      [![GitHub - UART FPGA Project](https://img.shields.io/badge/FPGA-black?logo=github&logoColor=white)](https://github.com/tusharc01/UART/tree/main/FPGA)
 
 
 Advance Topics:
