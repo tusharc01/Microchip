@@ -13,4 +13,4 @@ Digital VLSI -
 Advance Topics:
   - Computer Organisation and Architecture (for hardware role)
   - Deep down into Physical Design or DFT
-  -   
+  - ...  
