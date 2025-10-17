@@ -18,13 +18,11 @@ Advance Topics:
 
 *Best sources I've seen so far..*
 
-Follow his Rashid Sir for Deep analysis of Digital VLSI: 
-
+Follow his Rashid Sir for Deep analysis of Digital VLSI:  
   [![Chip Design by Rashid](https://img.shields.io/badge/YouTube-ChipDesignRashid-red?logo=youtube&logoColor=white)](http://www.youtube.com/@ChipDesignRashid)
   [![LinkedIn - Rashid](https://img.shields.io/badge/LinkedIn-Rashid-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashidco/)
 
-Can follow this Adi Teman Sir playlists:
-
+Can follow this Adi Teman Sir playlists:  
   [![YouTube - Adi Teman](https://img.shields.io/badge/YouTube-AdiTeman-red?logo=youtube&logoColor=white)](http://www.youtube.com/@AdiTeman)
 
-C Programming- Naresh Sir: [![YouTube](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh&si=R9aXVMgbULdH80yS)
+C Programming- Naresh Sir:   [![YouTube](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh&si=R9aXVMgbULdH80yS)
