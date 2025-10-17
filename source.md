@@ -27,4 +27,4 @@ Can follow this Professor playlists:
 
   [![YouTube - Adi Teman](https://img.shields.io/badge/YouTube-AdiTeman-red?logo=youtube&logoColor=white)](http://www.youtube.com/@AdiTeman)
 
-C Programming: [![Naresh Sir](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh&si=R9aXVMgbULdH80yS)
+C Programming- Naresh Sir: [![YouTube](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh&si=R9aXVMgbULdH80yS)
