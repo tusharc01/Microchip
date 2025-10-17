@@ -47,7 +47,7 @@ Computer Organisation & Architecture:
   [![YouTube Playlist - COA Tutorials](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3&si=-X0IrYoH5knom5Wd)
 
 *Analog VLSI* -
-  - Analog Electronics Circuits - Shanti Pavan
+  - Analog Electronics Circuits - Shanti Pavan  
   [![YouTube Playlist](https://img.shields.io/badge/Youtube-ShantiPavan-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLyqSpQzTE6M9YEdrct_JIT8WWmGMEXcPA&si=jd8TDuyk6PE9GZE7)
 
     
