@@ -25,11 +25,14 @@ Follow Rashid Sir for Deep analysis of Digital VLSI (including STA,PD..):
 Can follow Adi Teman Sir playlists:  
   [![YouTube - Adi Teman](https://img.shields.io/badge/YouTube-AdiTeman-red?logo=youtube&logoColor=white)](http://www.youtube.com/@AdiTeman)
 
+Design For Testability (DFT):  
+  [![YouTube Playlist - DFT Tutorials](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLyWAP9QBe16qiSMkBcAnUMxFagLIJzmv1&si=tDqoRlUNTre6hLUV)
+
 C Programming- Naresh Sir:   
-[![YouTube](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh&si=R9aXVMgbULdH80yS)
+  [![YouTube](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh&si=R9aXVMgbULdH80yS)
 
 Computer Organisation & Architecture:  
-[![YouTube Playlist - VLSI Design Tutorials](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3&si=-X0IrYoH5knom5Wd)
+  [![YouTube Playlist - COA Tutorials](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3&si=-X0IrYoH5knom5Wd)
 
 
 *To be continued...*
