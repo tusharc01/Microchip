@@ -12,7 +12,7 @@
 
   - Static Timing Analysis (deep understanding req) - [[vlsi-expert]](https://www.vlsi-expert.com/p/static-timing-analysis.html) (can study Fabrication, Sequential & Timing issues from Rabaey)
     
-  - VLSI/ASIC Design Flow for IC design process (learning EDA tools will be a Plus for practical) [[ASIC]](https://drive.google.com/file/d/1e5L3eXwj-cp1bzfSYBPoY8UOFo6_K19x/view?usp=drive_link)
+  - VLSI/ASIC Design Flow for IC design process (learning EDA tools will be a Plus for practical) - [[ASIC]](https://drive.google.com/file/d/1e5L3eXwj-cp1bzfSYBPoY8UOFo6_K19x/view?usp=drive_link)
     
   - FPGA Prototyping (Theoretical atleast)  
       [![GitHub - UART FPGA Project](https://img.shields.io/badge/FPGA-black?logo=github&logoColor=white)](https://github.com/tusharc01/UART/tree/main/FPGA)
