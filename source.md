@@ -18,7 +18,7 @@ Advance Topics:
 
 *Best sources I've seen so far..*
 
-Follow Rashid Sir for Deep analysis of Digital VLSI:  
+Follow Rashid Sir for Deep analysis of Digital VLSI (including STA,PD..):  
   [![Chip Design by Rashid](https://img.shields.io/badge/YouTube-ChipDesignRashid-red?logo=youtube&logoColor=white)](http://www.youtube.com/@ChipDesignRashid)
   [![LinkedIn - Rashid](https://img.shields.io/badge/LinkedIn-Rashid-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashidco/)
 
