@@ -1,8 +1,8 @@
 ## Source of preperation
 
-*For Internship*
+**For Internship**
 
-Digital VLSI -
+*Digital VLSI* -
   - Digital Logic Design or Digital Electronics
   - Verilog/VHDL Hardware Programming language
   - C programming needed atleast (later can learn C++ also)
