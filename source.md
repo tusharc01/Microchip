@@ -7,7 +7,9 @@
   - Verilog/VHDL Hardware Programming language - [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)  
       [![YouTube Playlist - HDLBits Tutorials](https://img.shields.io/badge/HDLBits_Verilog-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL0E9jhuDlj9qxAfV9hFKNQeHLWimarJJm&si=ZcKCIL9qLo8nmzWr)
   - C programming needed atleast (later can learn C++ also)
-  - Digital IC Design (For fundamentals theoretical knowledge necessary)
+  - Digital IC Design (For fundamentals deep knowledge of MOS CMOS necessary) - Follow Academic books (Kang/Weste/Rabaey)
+       [![View PDF](https://img.shields.io/badge/Kang-red?logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/18hHS5XAz_8ffukZNst08eIkMnqC0Szrf/view?usp=drive_link)
+
   - Static Timing Analysis (deep understanding req)
   - VLSI/ASIC Design Flow for IC design process (learning EDA tools will be a Plus for practical)
   - FPGA Prototyping (Theoretical atleast)  [![GitHub - UART FPGA Project](https://img.shields.io/badge/FPGA-black?logo=github&logoColor=white)](https://github.com/tusharc01/UART/tree/main/FPGA)
