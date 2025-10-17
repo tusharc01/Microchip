@@ -17,7 +17,9 @@
   - FPGA Prototyping (Theoretical atleast)  
       [![GitHub - UART FPGA Project](https://img.shields.io/badge/FPGA-black?logo=github&logoColor=white)](https://github.com/tusharc01/UART/tree/main/FPGA)
 
-
+Side Topics:
+  - FIFO, CDC, Clock Dividers, etc.
+    
 Advance Topics:
   - Computer Organisation and Architecture (for hardware role)
   - Deep down into Physical Design or DFT
