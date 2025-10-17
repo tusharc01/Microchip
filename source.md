@@ -19,7 +19,7 @@ Advance Topics:
 *Best sources I've seen so far..*
 
 Digital Circuit Design Using Verilog:  
-  [![Verilog](https://img.shields.io/badge/YouTube-ASIC_Physical_Design-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr&si=tVb234C6fQPAqJ5b)
+  [![Verilog](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr&si=tVb234C6fQPAqJ5b)
 
 Follow Rashid Sir for Deep analysis of Digital VLSI (including STA,PD..):  
   [![Chip Design by Rashid](https://img.shields.io/badge/YouTube-ChipDesignRashid-red?logo=youtube&logoColor=white)](http://www.youtube.com/@ChipDesignRashid)
