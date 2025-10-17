@@ -10,7 +10,7 @@
   - Digital IC Design (For fundamentals deep knowledge of MOS CMOS necessary) - Follow Academic books (Kang/Weste/Rabaey)  
        [[Kang]](https://drive.google.com/file/d/18hHS5XAz_8ffukZNst08eIkMnqC0Szrf/view?usp=drive_link) [[Rabaey]](https://drive.google.com/file/d/1DsQWvBpPVyWdX7EN6LFqaSuSwPQkDY2d/view?usp=drive_link) [[Weste]](https://drive.google.com/file/d/18ZdmCVmQRSxooyvv42MQu55ebOqNHxTR/view?usp=drive_link)
 
-  - Static Timing Analysis (deep understanding req) - (can study Fabrication, Sequential & Timing issues from Rabaey)
+  - Static Timing Analysis (deep understanding req) - [[vlsi-expert]](https://www.vlsi-expert.com/p/static-timing-analysis.html) (can study Fabrication, Sequential & Timing issues from Rabaey)
     
   - VLSI/ASIC Design Flow for IC design process (learning EDA tools will be a Plus for practical)
   - FPGA Prototyping (Theoretical atleast)  
