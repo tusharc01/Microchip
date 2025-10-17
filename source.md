@@ -34,7 +34,7 @@ Design For Testability (DFT):
 C Programming- Naresh Sir:   
   [![YouTube](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh&si=R9aXVMgbULdH80yS)
 
-Static Timing Analysis (STA)- Kunal Ghosh:  
+Static Timing Analysis (STA)- Kunal Ghosh- Part-1:  
   [![Udemy Course - VLSI Academy STA Checks](https://img.shields.io/badge/Udemy-VSD_STA_Checks-purple?logo=udemy&logoColor=white)](https://www.udemy.com/course/vlsi-academy-sta-checks/?srsltid=AfmBOormcNKq9iUjZl9nKjcvtOyTwZE9KGdT9o0TjdXGlUr-1ofN-sb-&couponCode=DIWALI30)
 
 Computer Organisation & Architecture:  
