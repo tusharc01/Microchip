@@ -7,6 +7,7 @@ Digital VLSI -
   - Verilog/VHDL Hardware Programming language
   - C programming needed atleast (later can learn C++ also)
   - Digital IC Design (For fundamentals theoretical knowledge necessary)
+  - Static Timing Analysis (deep understanding req)
   - VLSI/ASIC Design Flow for IC design process (learning EDA tools will be a Plus for practical)
   - FPGA Prototyping (Theoretical atleast)
 
