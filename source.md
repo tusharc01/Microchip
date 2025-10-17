@@ -48,7 +48,7 @@ Computer Organisation & Architecture:
 
 *Analog VLSI* -
   - Analog Electronics Circuits - Shanti Pavan  
-  [![YouTube Playlist](https://img.shields.io/badge/Youtube-ShantiPavan-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLyqSpQzTE6M9YEdrct_JIT8WWmGMEXcPA&si=jd8TDuyk6PE9GZE7)
+[![YouTube Playlist](https://img.shields.io/badge/Youtube-ShantiPavan-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLyqSpQzTE6M9YEdrct_JIT8WWmGMEXcPA&si=jd8TDuyk6PE9GZE7)
 
     
 *To be continued...*
