@@ -28,4 +28,8 @@ Can follow Adi Teman Sir playlists:
 C Programming- Naresh Sir:   
 [![YouTube](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh&si=R9aXVMgbULdH80yS)
 
+Computer Organisation & Architecture:
+[![YouTube Playlist - VLSI Design Tutorials](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3&si=-X0IrYoH5knom5Wd)
+
+
 *To be continued...*
