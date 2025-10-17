@@ -23,6 +23,8 @@ Side Topics:
 Advance Topics:
   - Computer Organisation and Architecture (for hardware role)
   - Deep down into Physical Design or DFT
+  - RISC-V
+  - Communication Protocols
   - ...  
 
 *Best sources I've seen so far..*
