@@ -15,3 +15,7 @@ Advance Topics:
   - Computer Organisation and Architecture (for hardware role)
   - Deep down into Physical Design or DFT
   - ...  
+
+*Best sources I've seen so far..*
+
+[![Chip Design by Rashid](https://img.shields.io/badge/YouTube-ChipDesignRashid-red?logo=youtube&logoColor=white)](http://www.youtube.com/@ChipDesignRashid)
