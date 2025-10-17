@@ -3,7 +3,7 @@
 **For Internship**
 
 *Digital VLSI* -
-  - Digital Logic Design or Digital Electronics
+  - Digital Logic Design or Digital Electronics [[DigiQS]](https://drive.google.com/file/d/1IqeqVZ6Pi_VvAmrh_Ahko7cr1KdDcKjd/view?usp=drive_link)
   - Verilog/VHDL Hardware Programming language - [[HDLBits]](https://hdlbits.01xz.net/wiki/Main_Page)  
       [![YouTube Playlist - HDLBits Tutorials](https://img.shields.io/badge/HDLBits_Verilog-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL0E9jhuDlj9qxAfV9hFKNQeHLWimarJJm&si=ZcKCIL9qLo8nmzWr)
   - C programming needed atleast (later can learn C++ also)
