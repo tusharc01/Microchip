@@ -60,6 +60,7 @@ Computer Organisation & Architecture:
      [![YouTube Playlist](https://img.shields.io/badge/Youtube-ShantiPavan-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLyqSpQzTE6M9YEdrct_JIT8WWmGMEXcPA&si=jd8TDuyk6PE9GZE7)
 
   - Chembiyan T (for intuitive analysis)
+     [![YouTube Playlist](https://img.shields.io/badge/Youtube-ShantiPavan-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLyqSpQzTE6M9YEdrct_JIT8WWmGMEXcPA&si=jd8TDuyk6PE9GZE7)  
      [![YouTube - Chembiyan T](https://img.shields.io/badge/YouTube-Chembiyan T-red?logo=youtube&logoColor=white)](http://www.youtube.com/@chembiyant456)
 
      
