@@ -5,7 +5,8 @@
 *Digital VLSI* -
   - Digital Logic Design or Digital Electronics - [[DigiQS]](https://drive.google.com/file/d/1IqeqVZ6Pi_VvAmrh_Ahko7cr1KdDcKjd/view?usp=drive_link)
   - Verilog/VHDL Hardware Programming language - [[Wiley]](https://drive.google.com/file/d/1mEBq9LWcy8MNoq2EIFLJ2amtSDiFBYXR/view?usp=drive_link)  
-      [[HDLBits]](https://hdlbits.01xz.net/wiki/Main_Page) [![YouTube Playlist - HDLBits Tutorials](https://img.shields.io/badge/HDLBits_Verilog-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL0E9jhuDlj9qxAfV9hFKNQeHLWimarJJm&si=ZcKCIL9qLo8nmzWr) / Projects: [[vlsi-verify]](https://vlsiverify.com/verilog/verilog-project-ideas/)
+      [[HDLBits]](https://hdlbits.01xz.net/wiki/Main_Page) [![YouTube Playlist - HDLBits Tutorials](https://img.shields.io/badge/HDLBits_Verilog-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL0E9jhuDlj9qxAfV9hFKNQeHLWimarJJm&si=ZcKCIL9qLo8nmzWr) / Projects: [[vlsi-verify]](https://vlsiverify.com/verilog/verilog-project-ideas/)  [![Vivado-2018.2](https://img.shields.io/badge/Download-Vivado--2018.2-blue?logo=xilinx&logoColor=white)](https://nitrklacin-my.sharepoint.com/:u:/g/personal/224ec3008_nitrkl_ac_in/EVUMaTvBhwdBt5wXQ5QRvm8BZPPhglOdg5upghSKlrNaAw?e=XkUyff)
+
   - C programming needed atleast (later can learn C++ also)
   - Digital IC Design (For fundamentals deep knowledge of MOS CMOS necessary) - Follow Academic books (Kang/Weste/Rabaey)  
        [[Kang]](https://drive.google.com/file/d/18hHS5XAz_8ffukZNst08eIkMnqC0Szrf/view?usp=drive_link) [[Rabaey]](https://drive.google.com/file/d/1DsQWvBpPVyWdX7EN6LFqaSuSwPQkDY2d/view?usp=drive_link) [[Weste]](https://drive.google.com/file/d/18ZdmCVmQRSxooyvv42MQu55ebOqNHxTR/view?usp=drive_link)
