@@ -19,10 +19,11 @@
       [![GitHub - UART FPGA Project](https://img.shields.io/badge/FPGA-black?logo=github&logoColor=white)](https://github.com/tusharc01/UART/tree/main/FPGA)
 
 Side Topics:
-  - FIFO [[AsynFIFO]](https://drive.google.com/file/d/16ROKi19HIMQXgEOZvkOOWsCprtfRETK3/view?usp=sharing) [[DepthCalculation]](https://drive.google.com/file/d/1NUj2s-UZpTtgcwLC_Q-F36jd6VTG_tiK/view?usp=drive_link), CDC, Clock Dividers [[Madeeasy]](https://drive.google.com/file/d/1-dpyuffRPrWStOkL3tmvZ3SKCW0vxKZT/view?usp=drive_link), Low Power VLSI, etc.
+  - FIFO [[AsynFIFO]](https://drive.google.com/file/d/16ROKi19HIMQXgEOZvkOOWsCprtfRETK3/view?usp=sharing) [[DepthCalculation]](https://drive.google.com/file/d/1NUj2s-UZpTtgcwLC_Q-F36jd6VTG_tiK/view?usp=drive_link), CDC, Clock Dividers [[Madeeasy]](https://drive.google.com/file/d/1-dpyuffRPrWStOkL3tmvZ3SKCW0vxKZT/view?usp=drive_link), etc.
     
 Advance Topics:
   - Computer Organisation and Architecture (for hardware role)
+  - Low Power VLSI [[Refer]](https://drive.google.com/file/d/1lvzeyIFPiAkx1GpEAlCj1De-B_VMjbFL/view?usp=drive_link)
   - Deep down into Physical Design or DFT
   - RISC-V
   - Communication Protocols
