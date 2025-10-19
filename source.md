@@ -27,6 +27,7 @@ Advance Topics:
   - Deep down into Physical Design or DFT
   - RISC-V
   - Communication Protocols
+  - System Verilog & UVM [Can follow [Kumar Khandagle] Sir](https://namaste-fpga.com/)
   - ...  
 
 *Best sources I've seen so far..*
