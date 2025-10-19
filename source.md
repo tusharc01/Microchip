@@ -41,6 +41,7 @@ Follow Rashid Sir for Deep analysis of Digital VLSI (including STA,PD..):
 
 Can follow Adi Teman Sir playlists:  
   [![YouTube - Adi Teman](https://img.shields.io/badge/YouTube-AdiTeman-red?logo=youtube&logoColor=white)](http://www.youtube.com/@AdiTeman)
+  [![LinkedIn - Adi_Teman](https://img.shields.io/badge/LinkedIn-Adam-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashidco/)
 
 C Programming- Naresh Sir:   
   [![YouTube](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh&si=R9aXVMgbULdH80yS)
