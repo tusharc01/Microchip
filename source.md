@@ -33,7 +33,7 @@ Advance Topics:
 Digital Circuit Design Using Verilog:  
   [![Verilog](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr&si=tVb234C6fQPAqJ5b)
 
-VLSI Design Flow: RTL to GDS (for beginner interview level ASIC including DFT and PD) - [[NPTEL]](https://nptel.ac.in/courses/108106191) 
+VLSI Design Flow: RTL to GDS (for beginner level ASIC including DFT and PD) - [[NPTEL]](https://nptel.ac.in/courses/108106191) [[PDFs]](https://drive.google.com/drive/folders/11CNo4ldj5rY1EH5tffSS0Wa80vRqwMx3?usp=drive_link)
 
 Follow Rashid Sir for Deep analysis of Digital VLSI (including STA,PD..):  
   [![Chip Design by Rashid](https://img.shields.io/badge/YouTube-ChipDesignRashid-red?logo=youtube&logoColor=white)](http://www.youtube.com/@ChipDesignRashid)
