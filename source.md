@@ -68,4 +68,5 @@ Computer Organisation & Architecture:
   - Chembiyan T (for intuitive analysis)  
      [![YouTube Channel](https://img.shields.io/badge/Youtube-ChembiyanT-red?logo=youtube&logoColor=white)](http://www.youtube.com/@chembiyant456)  
      
-*To be continued...*
+*To be continued...* or Contact: [![LinkedIn-Me](https://img.shields.io/badge/LinkedIn-tusharc-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/tushar-chaurasia-ab398a202)
+
