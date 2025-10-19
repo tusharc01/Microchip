@@ -9,7 +9,7 @@
 
   - C programming needed atleast (later can learn C++ also)
   - Digital IC Design (For fundamentals deep knowledge of MOS CMOS necessary) - Follow Academic books ([[Kang]](https://drive.google.com/file/d/18hHS5XAz_8ffukZNst08eIkMnqC0Szrf/view?usp=drive_link)/[[Weste]](https://drive.google.com/file/d/18ZdmCVmQRSxooyvv42MQu55ebOqNHxTR/view?usp=drive_link) & [[Rabaey]](https://drive.google.com/file/d/1DsQWvBpPVyWdX7EN6LFqaSuSwPQkDY2d/view?usp=drive_link))  
-      [![YouTube](https://img.shields.io/badge/YouTube-Prof.Janakiraman-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLHO2NKv71TvsSqYwVvUCZwNkY-jUyUHdS&si=SY6NeC2wVVqs9CtX) (Refer First MOS & CMOS basic concepts)
+      [![YouTube](https://img.shields.io/badge/YouTube-Prof.Janakiraman-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLHO2NKv71TvsSqYwVvUCZwNkY-jUyUHdS&si=SY6NeC2wVVqs9CtX) / (Refer First [[MOS]](https://drive.google.com/file/d/1urNXmDQPw3OYtJoOIklO00TVrp5v_NId/view?usp=drive_link) & [[CMOS]](https://drive.google.com/file/d/10tC12dhZmpO6hjeA6tp6jxI8XM0c9zkp/view?usp=drive_link) basic concepts)
 
   - Static Timing Analysis (deep understanding req) - [[vlsi-expert]](https://www.vlsi-expert.com/p/static-timing-analysis.html) (can study Fabrication, Sequential & Timing issues from Rabaey)
     
