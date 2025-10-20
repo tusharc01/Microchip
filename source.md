@@ -51,11 +51,11 @@ C Programming- Naresh Sir:
 Static Timing Analysis (STA)- Kunal Ghosh- Part-1:  
   [![Udemy Course - VLSI Academy STA Checks](https://img.shields.io/badge/Udemy-VSD_STA-purple?logo=udemy&logoColor=white)](https://www.udemy.com/course/vlsi-academy-sta-checks/?srsltid=AfmBOormcNKq9iUjZl9nKjcvtOyTwZE9KGdT9o0TjdXGlUr-1ofN-sb-&couponCode=DIWALI30)
 
-Design For Testability (DFT):  
-  [![YouTube Playlist - DFT Tutorials](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLyWAP9QBe16qiSMkBcAnUMxFagLIJzmv1&si=tDqoRlUNTre6hLUV)
-
 Computer Organisation & Architecture:  
   [![YouTube Playlist - COA Tutorials](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3&si=-X0IrYoH5knom5Wd)
+
+Design For Testability (DFT):  
+  [![YouTube Playlist - DFT Tutorials](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLyWAP9QBe16qiSMkBcAnUMxFagLIJzmv1&si=tDqoRlUNTre6hLUV)
 
 *Analog VLSI* (Explore yourself)-
 
