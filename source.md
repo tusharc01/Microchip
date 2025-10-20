@@ -57,7 +57,7 @@ Design For Testability (DFT):
 Computer Organisation & Architecture:  
   [![YouTube Playlist - COA Tutorials](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3&si=-X0IrYoH5knom5Wd)
 
-*Analog VLSI* -
+*Analog VLSI* (Explore yourself)-
 
   - Razavi Electronics  
      [![YouTube](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU&si=gRIwMadMQCUvYyzP)
@@ -69,4 +69,5 @@ Computer Organisation & Architecture:
      [![YouTube Channel](https://img.shields.io/badge/Youtube-ChembiyanT-red?logo=youtube&logoColor=white)](http://www.youtube.com/@chembiyant456)  
      
 Contact: [![LinkedIn-Me](https://img.shields.io/badge/LinkedIn-tusharc-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/tushar-chaurasia-ab398a202)
-/ *To be continued...*
+
+*To be continued...*
