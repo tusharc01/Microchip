@@ -1,4 +1,4 @@
-## Sources
+## Resources
 
 **For Internship**
 
@@ -30,7 +30,7 @@ Advance Topics:
   - System Verilog [[Chris Spear]](https://drive.google.com/file/d/1t1eZQE5jcPwoWs4hLWOUzDVeqPJec4aT/view?usp=drive_link) & UVM - (Can follow [[Kumar Khandagle]](https://namaste-fpga.com/) Sir) 
   - ...  
 
-*Best sources I've seen so far..*
+*Best resources I've seen so far..*
 
 Digital Circuit Design Using Verilog:  
   [![Verilog](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr&si=tVb234C6fQPAqJ5b)
