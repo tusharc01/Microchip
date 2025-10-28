@@ -40,6 +40,7 @@ VLSI Design Flow: RTL to GDS (for beginner level ASIC including DFT and PD) - [[
 Follow Rashid Sir for Deep analysis of Digital VLSI (including STA,PD..) - [[ICdesign]](https://youtube.com/playlist?list=PL0-xus8sJBCRXKoj2vLLnOK8KDWKpC_HH&si=xmRsqooKYdTspeS6) (Good for start)  
   [![Chip Design by Rashid](https://img.shields.io/badge/YouTube-ChipDesignRashid-red?logo=youtube&logoColor=white)](http://www.youtube.com/@ChipDesignRashid)
   [![LinkedIn - Rashid](https://img.shields.io/badge/LinkedIn-Rashid-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashidco/)
+  [[chip-design-website]](https://chipdesignrashid.github.io/chip-design-website/)
 
 Can follow Adi Teman Sir playlists:  
   [![YouTube - Adi Teman](https://img.shields.io/badge/YouTube-AdiTeman-red?logo=youtube&logoColor=white)](http://www.youtube.com/@AdiTeman)
