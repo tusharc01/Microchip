@@ -1,4 +1,4 @@
-# **Engineer II – Device Data Modeling**
+# **Engineer II – Device Modeling**
 
 ## **Job Description**
 
