@@ -29,7 +29,6 @@
 * Working knowledge of SOC and/or FPGA Architectures
 * Knowledge of FPGA design synthesis and routing associated with Microchip (Libero), Xilinx (ISE), or Altera (Quartus) tools
 * Working knowledge of ASIC/FPGA design flows with a focus on timing and power analysis tools
-* Bachelor’s or higher degree with 3+ years of experience.
 
 
-After that, she provided information about the job location and package, and the interview concluded.
+
