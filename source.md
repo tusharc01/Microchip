@@ -69,7 +69,7 @@ Design For Testability (DFT):
   - Chembiyan T (for intuitive analysis)  
      [![YouTube Channel](https://img.shields.io/badge/Youtube-ChembiyanT-red?logo=youtube&logoColor=white)](http://www.youtube.com/@chembiyant456)
 
-Embedded Systems (Arduino and Microcontroller Development Course)
+*Embedded Systems* (Arduino and Microcontroller Development Course)  
   [![Udemy Course - Arduino and Microcontroller Development Course](https://img.shields.io/badge/Udemy-Embedded-purple?logo=udemy&logoColor=white)](https://www.udemy.com/share/10bdqC3@pAcy0piX-S2_8iux9z7tpvdlhhu7RHg_g6xyVJ2tacEZrIO81IOnMTnIZxm-Ixp7gQ==/)
 
      
