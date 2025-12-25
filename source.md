@@ -67,7 +67,11 @@ Design For Testability (DFT):
      [![YouTube Playlist](https://img.shields.io/badge/Youtube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLyqSpQzTE6M9YEdrct_JIT8WWmGMEXcPA&si=jd8TDuyk6PE9GZE7)
 
   - Chembiyan T (for intuitive analysis)  
-     [![YouTube Channel](https://img.shields.io/badge/Youtube-ChembiyanT-red?logo=youtube&logoColor=white)](http://www.youtube.com/@chembiyant456)  
+     [![YouTube Channel](https://img.shields.io/badge/Youtube-ChembiyanT-red?logo=youtube&logoColor=white)](http://www.youtube.com/@chembiyant456)
+
+Embedded Systems (Arduino and Microcontroller Development Course)
+  [![Udemy Course - Arduino and Microcontroller Development Course](https://img.shields.io/badge/Udemy-Embedded-purple?logo=udemy&logoColor=white)](https://www.udemy.com/share/10bdqC3@pAcy0piX-S2_8iux9z7tpvdlhhu7RHg_g6xyVJ2tacEZrIO81IOnMTnIZxm-Ixp7gQ==/)
+
      
 Contact: [![LinkedIn-Me](https://img.shields.io/badge/LinkedIn-tusharc-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/tushar-chaurasia-ab398a202)
 
