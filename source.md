@@ -42,7 +42,7 @@ Follow Rashid Sir for Deep analysis of Digital VLSI (including STA,PD..) - [[ICd
   [![LinkedIn - Rashid](https://img.shields.io/badge/LinkedIn-Rashid-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashidco/) / 
   [[chip-design-website]](https://chipdesignrashid.github.io/chip-design-website/)
 
-Can follow Adi Teman Sir playlists (Digital IC Design/ASIC[RTL2GDS]/SoC):  
+Can follow Adi Teman Sir playlists (Digital IC Design / ASIC / SoC):  
   [![YouTube - Adi Teman](https://img.shields.io/badge/YouTube-AdiTeman-red?logo=youtube&logoColor=white)](http://www.youtube.com/@AdiTeman)
   [![LinkedIn - Adi_Teman](https://img.shields.io/badge/LinkedIn-Adam-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashidco/)
 
