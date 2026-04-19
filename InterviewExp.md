@@ -6,7 +6,7 @@ Interview Experience
 
 Total Questions- 60 [(Apti, Digital, Verilog, and C Programming and DVLSI]
 
-### Round 1 (F2F Interview)(Physical Design) - 45 min
+### Round 1 (F2F Interview)(Backend) - 45 min
 
 The interview started with my introduction. Based on that, he asked what I was currently doing in my project. I told him about the ASIC Design Flow that I'm currently working on, and that I'm also learning physical design to get a better understanding of it.
 
