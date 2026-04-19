@@ -1,6 +1,6 @@
-# **Engineer II – Device Modeling**
+# **Engineer II – Device & Data Modeling**
 
-## **Job Description**
+## **Job Description** (Pre-silicon characterization)
 
 * In depth knowledge of electrical engineering fundamentals including deep sub-micron CMOS device operation and characteristics, understanding of advancing modeling techniques
 * Hands on experience with simulation using tools such as HSPICE, Finesim/PrimeSim or Spectre
