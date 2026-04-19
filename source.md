@@ -18,7 +18,7 @@
   - FPGA Prototyping (Theoretical atleast)  
       [![GitHub - UART FPGA Project](https://img.shields.io/badge/FPGA-black?logo=github&logoColor=white)](https://github.com/tusharc01/UART/tree/main/FPGA)
 
-  - Basic Computer Architecture -- Smruti R. Sarangi - [[CA]](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)  
+  - Basic Computer Architecture - Smruti R. Sarangi - [[CA]](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)  
       [![YouTube Playlist - CA](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL1iLu2CSC9EWAo0ysorNI_nebwF6Rwkr0&si=UJ0Oacqaktadnn7m)
 
 Side Topics:
