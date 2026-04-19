@@ -18,6 +18,9 @@
   - FPGA Prototyping (Theoretical atleast)  
       [![GitHub - UART FPGA Project](https://img.shields.io/badge/FPGA-black?logo=github&logoColor=white)](https://github.com/tusharc01/UART/tree/main/FPGA)
 
+  - VLSI/ASIC Design Flow for IC design process - [[CA]](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
+      [![YouTube Playlist - CA](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL1iLu2CSC9EWAo0ysorNI_nebwF6Rwkr0&si=UJ0Oacqaktadnn7m)
+
 Side Topics:
   - FIFO [[AsynFIFO]](https://drive.google.com/file/d/16ROKi19HIMQXgEOZvkOOWsCprtfRETK3/view?usp=sharing) [[DepthCalculation]](https://drive.google.com/file/d/1NUj2s-UZpTtgcwLC_Q-F36jd6VTG_tiK/view?usp=drive_link), CDC, Clock Dividers [[Madeeasy]](https://drive.google.com/file/d/1-dpyuffRPrWStOkL3tmvZ3SKCW0vxKZT/view?usp=drive_link), etc.
     
@@ -52,7 +55,7 @@ C Programming- Naresh Sir:
 Static Timing Analysis (STA)- Kunal Ghosh- Part-1:  
   [![Udemy Course - VLSI Academy STA Checks](https://img.shields.io/badge/Udemy-VSD_STA-purple?logo=udemy&logoColor=white)](https://www.udemy.com/share/101yyc3@oaUKm4wR0HKfyluB4PNnj7fOFnvCQ18ghdpSHFXh6TIfIsmrkaywHFMBeZSTkIPa0Q==/)
 
-Computer Organisation & Architecture (Onur Mutlu):  
+Computer Organisation & Architecture (Onur Mutlu)(Advanced Level but Recommended):  
   [![YouTube Playlist - COA Tutorials](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3&si=-X0IrYoH5knom5Wd)
 
 Design For Testability (DFT):  
