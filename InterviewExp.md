@@ -18,7 +18,7 @@ Then, he moved on to the fundamentals of STA and asked for my understanding of s
 
 Next, he asked about the buffers present in the .lib file: what they are and their purpose. Then, he began asking me to analyze buffers of different sizes.
 
-He asked me about the difference between small-sized buffers and larger ones. Initially, I answered, "Sorry sir, I haven't analyzed the buffers present in the standard library," but he insisted that I just think about it.
+He asked me about the difference between small-sized buffers and larger ones. Initially, I answered, "Sorry sir, I haven't analyzed the buffers present in the standard library," but he insisted to think about it.
 
 He gave me a hint, asking, "Let's suppose there are two metal wires, one short and one long, starting from (a). What would the signal waveform look like upon reaching the end (b)?" At first, I wasn't able to get it right, so he gave me another hint to think in terms of changing capacitance, skew, etc. After that, I was able to explain it perfectly.
 
