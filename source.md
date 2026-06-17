@@ -28,7 +28,7 @@ Advance Topics:
   - Computer Organisation and Architecture (for hardware role)
   - Low Power VLSI [[Refer]](https://drive.google.com/file/d/1lvzeyIFPiAkx1GpEAlCj1De-B_VMjbFL/view?usp=drive_link) \ [![GitHub - LPVLSI](https://img.shields.io/badge/lowpowervlsi-black?logo=github&logoColor=white)](https://github.com/tusharc01/DVLSI/blob/main/CMOS/low_power_vlsi.md)
   - Deep down into Physical Design or DFT
-  - RISC-V
+  - RISC-V (COA must)
   - Communication Protocols
   - System Verilog [[Chris Spear]](https://drive.google.com/file/d/1t1eZQE5jcPwoWs4hLWOUzDVeqPJec4aT/view?usp=drive_link) & UVM - (Can follow [[Kumar Khandagle]](https://namaste-fpga.com/) Sir) (& [[ChipVerify]](https://chipverify.com/) blog)
   - ...  
