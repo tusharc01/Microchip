@@ -30,7 +30,7 @@ Advance Topics:
   - Deep down into Physical Design or DFT
   - RISC-V
   - Communication Protocols
-  - System Verilog [[Chris Spear]](https://drive.google.com/file/d/1t1eZQE5jcPwoWs4hLWOUzDVeqPJec4aT/view?usp=drive_link) & UVM - (Can follow [[Kumar Khandagle]](https://namaste-fpga.com/) Sir) (& [[Chipverify]](https://chipverify.com/) blog)
+  - System Verilog [[Chris Spear]](https://drive.google.com/file/d/1t1eZQE5jcPwoWs4hLWOUzDVeqPJec4aT/view?usp=drive_link) & UVM - (Can follow [[Kumar Khandagle]](https://namaste-fpga.com/) Sir) (& [[ChipVerify]](https://chipverify.com/) blog)
   - ...  
 
 *Best resources I've seen so far..*
