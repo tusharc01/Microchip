@@ -10,6 +10,7 @@
   - C programming needed atleast (later can learn C++ also)
   - Digital IC Design (For fundamentals deep knowledge of MOS CMOS necessary) - Follow Academic books ([[Kang]](https://drive.google.com/file/d/18hHS5XAz_8ffukZNst08eIkMnqC0Szrf/view?usp=drive_link)/[[Weste]](https://drive.google.com/file/d/18ZdmCVmQRSxooyvv42MQu55ebOqNHxTR/view?usp=drive_link) & [[Rabaey]](https://drive.google.com/file/d/1DsQWvBpPVyWdX7EN6LFqaSuSwPQkDY2d/view?usp=drive_link))  
       [![YouTube](https://img.shields.io/badge/YouTube-Prof.Janakiraman-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLHO2NKv71TvsSqYwVvUCZwNkY-jUyUHdS&si=SY6NeC2wVVqs9CtX) / (Refer First [[MOS]](https://drive.google.com/file/d/1urNXmDQPw3OYtJoOIklO00TVrp5v_NId/view?usp=drive_link) & [[CMOS]](https://drive.google.com/file/d/10tC12dhZmpO6hjeA6tp6jxI8XM0c9zkp/view?usp=drive_link) basic concepts)
+      EE619A- IIT Kanpur [![YouTube](https://img.shields.io/badge/YouTube-VLSI-System-Design-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLP-rjhz_nIi4kBIvyb6dN6OmYSNSWJioV&si=ON0WdOoJ6l-SOLEn)
 
   - Static Timing Analysis (deep understanding req) - [[vlsi-expert]](https://www.vlsi-expert.com/p/static-timing-analysis.html) (can study Fabrication, Sequential & Timing issues from Rabaey)
     
@@ -28,7 +29,7 @@ Advance Topics:
   - Computer Organisation and Architecture (for hardware role)
   - Low Power VLSI [[Refer]](https://drive.google.com/file/d/1lvzeyIFPiAkx1GpEAlCj1De-B_VMjbFL/view?usp=drive_link) \ [![GitHub - LPVLSI](https://img.shields.io/badge/lowpowervlsi-black?logo=github&logoColor=white)](https://github.com/tusharc01/DVLSI/blob/main/CMOS/low_power_vlsi.md)
   - Deep down into Physical Design or DFT
-  - RISC-V (COA must)
+  - RISC-V (COA must) [[Digital Design & Computer Architecture RISC-V Edition]](https://drive.google.com/file/d/17vSX3VSGVG9EwwYAAZpASnCX8CUdpRvZ/view?usp=sharing)
   - Communication Protocols
   - System Verilog [[Chris Spear]](https://drive.google.com/file/d/1t1eZQE5jcPwoWs4hLWOUzDVeqPJec4aT/view?usp=drive_link) & UVM - (Can follow [[Kumar Khandagle]](https://namaste-fpga.com/) Sir) (& [[ChipVerify]](https://chipverify.com/) blog)
   - ...  
