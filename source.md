@@ -27,7 +27,7 @@ Side Topics:
     
 Advance Topics:
   - Computer Organisation and Architecture (for hardware role)
-  - Low Power VLSI [[Refer]](https://drive.google.com/file/d/1lvzeyIFPiAkx1GpEAlCj1De-B_VMjbFL/view?usp=drive_link) \ [![GitHub - LPVLSI](https://img.shields.io/badge/lowpowervlsi-black?logo=github&logoColor=white)](https://github.com/tusharc01/DVLSI/blob/main/CMOS/low_power_vlsi.md)
+  - Low Power VLSI [[Ajit Pal]](https://drive.google.com/file/d/1lvzeyIFPiAkx1GpEAlCj1De-B_VMjbFL/view?usp=drive_link) \ [![GitHub - LPVLSI](https://img.shields.io/badge/lowpowervlsi-black?logo=github&logoColor=white)](https://github.com/tusharc01/DVLSI/blob/main/CMOS/low_power_vlsi.md)
   - Deep down into Physical Design or DFT
   - RISC-V (COA must) [[Digital Design & Computer Architecture RISC-V Edition]](https://drive.google.com/file/d/17vSX3VSGVG9EwwYAAZpASnCX8CUdpRvZ/view?usp=sharing)
   - Communication Protocols
